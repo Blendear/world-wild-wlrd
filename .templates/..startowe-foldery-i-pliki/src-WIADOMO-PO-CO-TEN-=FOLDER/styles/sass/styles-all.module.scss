@@ -1,0 +1,8 @@
+//trap1 - MUSISZ TU IMPORTOWAĆ file, żeby był w ogóle skompilowany. inaczej masz miliard fileów, któe nic nie robią.
+
+@use "./1-base/base";
+@use "./1-base/helpers";
+
+@use "./2-components/accordiony";
+
+@use "./3-layout/layout-0-footer";

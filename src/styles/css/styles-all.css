@@ -1,0 +1,15 @@
+/**
+ * Clear inner floats
+ */
+.clearfix::after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.accordion__trigger-od-niego {
+  width: 5rem;
+  height: 5rem;
+}
+
+/*# sourceMappingURL=styles-all.css.map */
